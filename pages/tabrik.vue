@@ -3,7 +3,7 @@
         <img src="" alt="">
         <h1>تبریک</h1>
         <p>به برنامه خود خوش آمدید.</p>
-        <NuxtLink class="bg-[#307a59] text-white text-center p-3 rounded mt-3 w-full" to="/">ورود</NuxtLink>
+        <NuxtLink class="bg-[#307a59] text-white text-center p-3 rounded mt-3 w-full" to="/home-page">ورود</NuxtLink>
     </div>
 </template>
 <style scoped>
